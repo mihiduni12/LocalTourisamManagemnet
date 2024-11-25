@@ -1,0 +1,19 @@
+.active {
+    color: rgb(63, 24, 24);
+  }
+  
+  .productsNav a {
+    width: 150px;
+    height: 50px;
+    border-radius: 5px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .inactive {
+      background-color: rgb(0, 0, 0);
+  }
+  
+  
+  
